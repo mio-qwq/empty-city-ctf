@@ -1,0 +1,147 @@
+# Limited Source Code License
+
+Copyright (c) 2026 mio-qwq  
+All Rights Reserved.
+
+This repository and all source code, documentation, assets, and other materials contained within it (collectively, the "Materials") are publicly available for **personal, non-commercial learning and research purposes only**.
+
+## Permitted Use
+
+You may:
+
+- View and study the Materials.
+- Download or clone the Materials solely for personal, non-commercial learning and research.
+- Run, analyze, debug, or otherwise examine the Materials locally for such purposes.
+- View and fork this repository through GitHub as permitted by the GitHub Terms of Service.
+
+## Restrictions
+
+Except for the permissions expressly granted above, no rights are granted.
+
+Without prior written permission from the copyright holder, you may not:
+
+1. Use the Materials for any commercial purpose or profit-making activity.
+2. Copy or reproduce the Materials except as reasonably necessary for the permitted personal learning and research purposes described above.
+3. Modify, adapt, merge, translate, or create derivative works for publication, redistribution, or other use.
+4. Publish, redistribute, sublicense, sell, or otherwise make the Materials or substantial portions thereof available to third parties.
+5. Incorporate the Materials into any product, service, software, system, project, competition, challenge, or other work.
+6. Use the Materials, in whole or in substantial part, to create or operate another CTF challenge, contest problem, training platform, or similar activity.
+7. Use the Materials as part of a commercial dataset or for training a commercial artificial intelligence or machine learning system, except where such rights are independently granted under applicable GitHub Terms of Service.
+8. Remove, obscure, or alter any copyright, authorship, or licensing notice contained in the Materials.
+9. Claim the Materials, or substantial portions or derivatives thereof, as your own work.
+
+All rights not expressly granted are reserved by the copyright holder.
+
+## Additional Permission
+
+If you wish to use the Materials in a manner not expressly permitted by this license, including modification, redistribution, publication, commercial use, integration into another project, or use in another competition or CTF challenge, you may request additional permission from the copyright holder.
+
+Contact:
+
+**mioqwq@hotmail.com**
+
+Requests for additional permission are welcome. Where the proposed use has a legitimate purpose, particularly where it supports learning, education, research, technical exchange, or another reasonable and constructive use, permission will generally be granted readily when sufficient justification is provided.
+
+The restrictions in this license are intended primarily to prevent misuse, unauthorized exploitation, and other unreasonable use of the Materials, rather than to discourage legitimate learning, research, or collaboration.
+
+Additional rights may be granted separately through explicit written permission.
+
+Permission granted to one person or organization does not automatically grant the same permission to any other person or organization.
+
+## GitHub Terms of Service
+
+Nothing in this license is intended to restrict rights that GitHub or GitHub users necessarily receive under the applicable GitHub Terms of Service as a result of this repository being made public.
+
+No additional rights are granted beyond those expressly stated in this license.
+
+## Third-Party Materials
+
+Any third-party components included in this repository remain subject to their respective copyright notices and licenses.
+
+Where a third-party license applies to a particular component, that license governs that component.
+
+## Disclaimer
+
+THE MATERIALS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM, OUT OF, OR IN CONNECTION WITH THE MATERIALS OR THEIR USE.
+
+---
+
+# 有限源代码许可证
+
+Copyright (c) 2026 mio-qwq  
+保留所有权利（All Rights Reserved）。
+
+本仓库以及其中包含的全部源代码、文档、资源及其他材料（以下统称“本材料”）仅为**个人、非商业性质的学习与研究目的**而公开。
+
+## 允许的行为
+
+你可以：
+
+- 查看和阅读本材料；
+- 仅为个人、非商业性质的学习与研究而下载或克隆本材料；
+- 为上述目的在本地运行、分析、调试或研究本材料；
+- 按照 GitHub 服务条款允许的范围，在 GitHub 平台上查看和 Fork 本仓库。
+
+## 限制
+
+除上述明确授予的权限之外，不授予任何其他权利。
+
+未经版权所有者事先书面许可，不得：
+
+1. 将本材料用于任何商业目的或盈利活动；
+2. 除上述个人学习与研究所合理必需的情况外，复制或再制本材料；
+3. 为发布、传播或其他用途修改、改编、合并、翻译本材料或制作衍生作品；
+4. 发布、重新发布、分发、再许可、出售本材料，或以其他方式向第三方提供本材料或其实质性部分；
+5. 将本材料整合、嵌入或用于任何产品、服务、软件、系统、项目、比赛、题目或其他作品；
+6. 使用本材料的全部或实质性部分制作、运营或改编其他 CTF 题目、竞赛题目、训练平台或类似活动；
+7. 将本材料用于商业数据集，或用于训练商业人工智能、机器学习模型或系统，但 GitHub 服务条款独立授予 GitHub 或相关主体的权利除外；
+8. 删除、隐藏或修改本材料中的版权、作者身份或许可证声明；
+9. 将本材料或其实质性部分、衍生内容宣称为自己的原创作品。
+
+除本许可证明确授予的权利之外，其他一切权利均由版权所有者保留。
+
+## 额外授权
+
+如果你希望以本许可证未明确允许的方式使用本材料，包括但不限于：
+
+修改、重新发布、分发、商业使用、整合到其他项目，以及用于其他比赛或 CTF 题目，
+
+可以直接联系版权所有者申请额外授权。
+
+联系方式：
+
+**mioqwq@hotmail.com**
+
+欢迎申请额外授权。如果拟议用途具有正当且合理的目的，特别是用于促进学习、教育、研究、技术交流或其他合理且具有建设性的用途，只要能够说明充分的理由，通常都会比较容易获得授权。
+
+本许可证设置这些限制，主要是为了防止本材料被滥用、未经授权地利用或用于其他不合理用途，而并非为了阻碍正常的学习、研究或合作。
+
+版权所有者可以通过明确的书面许可单独授予额外权利。
+
+向某一个个人或组织授予的许可，不代表该许可自动适用于其他个人或组织。
+
+## GitHub 服务条款
+
+本许可证无意限制因本仓库被设为公开仓库，而根据适用的 GitHub 服务条款必须授予 GitHub 或 GitHub 用户的相关权利。
+
+除 GitHub 服务条款以及本许可证明确规定的权利之外，不授予任何其他权利。
+
+## 第三方材料
+
+本仓库中包含的任何第三方材料仍分别受其原有版权声明和许可证约束。
+
+如果某一第三方组件具有独立许可证，则该许可证对该组件优先适用。
+
+## 免责声明
+
+本材料按“原样”（AS IS）提供，不提供任何明示或默示的保证，包括但不限于对适销性、特定用途适用性以及不侵权的保证。
+
+在任何情况下，版权所有者均不对因本材料或本材料的使用而产生或与之相关的任何索赔、损害或其他责任承担责任。
+
+---
+
+The English and Chinese versions of this license are intended to express the same terms.
+
+本许可证的英文版本与中文版本旨在表达相同的许可条件。

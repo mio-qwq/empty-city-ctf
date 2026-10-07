@@ -1,0 +1,48 @@
+# Local history, disassembly, analysis databases and the original backup
+/local/
+
+# Reproducible build products, generated answers and test reports
+/build/
+/dist/*
+!/dist/source.c
+*.exe
+*.dll
+*.obj
+*.exp
+*.lib
+*.pdb
+*.ilk
+*.zip
+
+# IDA / debugger workspaces
+*.id0
+*.id1
+*.id2
+*.nam
+*.til
+*.i64
+*.idb
+*.dmp
+.wp_run/
+.wp_work/
+
+# Python and editor caches
+__pycache__/
+*.py[cod]
+.venv/
+.vs/
+.idea/
+.vscode/
+*.swp
+*.tmp
+Thumbs.db
+.DS_Store
+Desktop.ini
+
+# Machine-specific secrets and runtime inputs (challenge config is intentional)
+.env
+.env.*
+!.env.example
+flag
+*.pem
+*.key

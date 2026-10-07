@@ -1,0 +1,8 @@
+{
+  "name": "空城计",
+  "description": "我写程序是为了出题，题都出出去了，我还写程序做什么。",
+  "flag": "PKWCTF{the_city_is_empty_but_TLS_is_not_9e3779b9}",
+  "key": ["A17C9E43", "6D20B8F5", "C3E4719A", "58BF026D"],
+  "title": "空城计 · 你咋进来了",
+  "message": "大门给你看了，源码也给你看了，\r\n正常人看到这里就该回去了。\r\n\r\n你怎么还真找到里面来了？\r\n\r\n行吧，这里是你的了。\r\n别告诉其他人，他们还在 main 里等通知。"
+}
